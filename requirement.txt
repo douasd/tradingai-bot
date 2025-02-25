@@ -1,0 +1,44 @@
+# Temel Python Kütüphaneleri
+numpy>=1.24.0
+pandas>=1.5.0
+requests>=2.28.1
+aiohttp>=3.8.1
+asyncio>=3.4.3
+dotenv>=0.19.2
+python-dotenv>=1.0.0
+
+# Gelişmiş Veri İşleme
+pyarrow>=10.0.1
+zstandard>=0.19.0
+msgpack>=1.0.4
+cryptography>=39.0.0
+
+# Asenkron ve Gerçek Zamanlı Veri Akışı
+aiolimiter>=1.0.0
+websockets>=10.3
+socketio>=5.6.0
+uvloop>=0.17.0
+
+# Loglama ve Hata Yönetimi
+loguru>=0.6.0
+
+# Bilimsel Hesaplama ve GPU Desteği
+numba>=0.56.4
+tensorflow>=2.11.0
+tensorflow-io>=0.28.0
+
+# Makine Öğrenmesi ve Modelleme
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+lightgbm>=3.3.3
+
+# Gelişmiş Matematik ve Optimizasyon
+scipy>=1.10.0
+networkx>=3.0
+
+# İletişim ve Bildirimler
+python-telegram-bot>=20.0
+
+# Diğer Yardımcı Araçlar
+tqdm>=4.64.1
+psutil>=5.9.4
